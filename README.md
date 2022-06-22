@@ -1,13 +1,14 @@
 <h1> Hi There 👋🏽 </h1>
 
 <p>
-  Hi I'm <Strong>Kieran Singh</strong>. I like building things, I started my programming journey last December and I've been enthralled by it since, even with a few (a     lot) of hiccups and challenges along the way. Currently, I'm trying to learn as much as I can about FrontEnd Development and am getting comfortable with React. 
+  Hi I'm <Strong>Kieran Singh</strong>. I like building things. I started my programming journey last December and I've been enthralled by it since, even with a few (a     lot) of hiccups and challenges along the way. Currently, I'm trying to learn as much as I can about FrontEnd Development and am getting comfortable with React. 
   
   I <strong>love</strong> the challenge programming offers and the drive it provides to constantly improve, learn new things and above all try new things.  
 </p>
 
 <h3> How I'm currently going ⏱ </h3>
-<p> I'm currently going through the Odin Project's curriculum but enjoy branching out and trying projects on my own or through other sources such as frontend mentor. </p>
+<p> I'm currently going through the <a href="https://www.theodinproject.com/"> Odin Project's </a> curriculum but enjoy branching out and trying projects on my own or through other sources such as the excellent 
+  <a href="https://www.frontendmentor.io/">Frontend Mentor</a>. </p>
 
 <p> Aside from that, I like learning all things related to frontend development and find myself learning new things every day. </p>
 
