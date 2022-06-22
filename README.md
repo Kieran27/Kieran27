@@ -1,17 +1,19 @@
-<h1> Hello There 👋 </h1>
+<h1> Hi There 👋 </h1>
 
-<p>Hi I'm Kieran Singh, an aspiring frontend developer. </p>
+<p>Hi I'm Kieran Singh, an aspiring frontend developer. I began my programming journey last December and, even with a few challenges and hiccups along the way, I find myself enthralled by it. I love the challenge programming offers and the drive it provides to constantly improve, learn new things and above all try new things.  </p>
 
-<h3> How I'm currently learning 👋 </h3>
-<p> I'm currently going through the Odin Project's curriculum but am wanting to </p>
-- 👋 Hi, I’m @Kieran27
-- 👀 I’m interested in learning all things related to frontend development
-- 🌱 I’m currently learning frontend development with the help with https://www.theodinproject.com/
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p> Coming from a design background, I feel a certain affinity for front end development and enjoy both the logical and design challenges that it brings. I'm passionate about the process that goes into building websites and webapps and am looking for a junior developer position to use my skills and learn amongst professionals.
+</p>
 
+<h3> How I'm currently going 🌱 </h3>
+<p> I'm currently going through the Odin Project's curriculum but enjoy branching out and trying projects on my own or through other sources such as frontend mentor. </p>
 
-<a href="#">Personal Site </>
+<p> Aside from that, I like learning all things related to frontend development and find myself learning new things every day. </p>
+
+<h2> See My Work 👀 </h2>
+<ul>
+  <li>Portfolio: https://kieran27.github.io/Personal-Portfolio/ </li> 
+ </ul>
 
 <!---
 Kieran27/Kieran27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
