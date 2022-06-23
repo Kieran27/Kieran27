@@ -19,7 +19,7 @@
 
 <h2> See My Work 👀 </h2>
 <ul>
-  <li>Portfolio: https://kieran27.github.io/Personal-Portfolio/ </li> 
+  <li>Portfolio: https://kieransingh.dev/ </li> 
  </ul>
 
 <!---
