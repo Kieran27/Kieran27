@@ -1,7 +1,7 @@
 <h1> Hi There 👋🏽 </h1>
 
 <p>
-  Hi I'm <Strong>Kieran Singh</strong>. I like building things. I started my programming journey last December and I've been enthralled by it since, even if there's been a few (well, a lot) of hiccups and challenges along the way. Currently, I'm trying to learn as much as I can about FrontEnd Development and am getting comfortable with React. 
+  Hi I'm <Strong>Kieran Singh</strong>. I like building things. I started my programming journey last December and I've been enthralled by it since, even if there's been a few of hiccups and challenges along the way. Currently, I'm trying to learn as much as I can about FrontEnd Development and have recently begun to understand React more comprehensively.
   
   I <strong>love</strong> the challenge programming offers and the drive it provides to constantly improve, learn new things and above all try new things.  
 </p>
