@@ -7,10 +7,8 @@
 </p>
 
 <h3> How I'm currently going ⏱ </h3>
-<p> I'm currently going through the <a href="https://www.theodinproject.com/"> Odin Project's </a> curriculum but enjoy branching out and trying projects on my own or through other sources such as the excellent 
-  <a href="https://www.frontendmentor.io/">Frontend Mentor</a>. </p>
-
-<p> Aside from that, I like learning all things related to frontend development and find myself learning new things every day. </p>
+<p> I'm currently going through the <a href="https://www.theodinproject.com/"> Odin Project's </a> curriculum but enjoy branching out and trying projects on my own.
+<p> Aside from that, I like learning all things related to frontend development and find myself learning new things every day. I'm currently attempting to learn unit testing via Jest and React Testing Library </p>
 
 <h3> What I'm Looking For 🟠 </h3>
 
